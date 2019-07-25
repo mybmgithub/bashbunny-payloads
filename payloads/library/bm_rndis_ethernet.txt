@@ -1,0 +1,4 @@
+# First script for BB July 2019
+
+LED R
+ATTACKMODE RNDIS_ETHERNET
